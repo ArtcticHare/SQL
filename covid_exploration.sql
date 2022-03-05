@@ -1,6 +1,5 @@
 
 
--- Queries used to explore the data originally 
 --exploring the structure of the data
 -- Filtering out the null continent fields is a way of removing the locations that are assigned as continents.
 
