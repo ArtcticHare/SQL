@@ -5,3 +5,5 @@
 Hi, i'm Myles aspiring Data Analyst and I have included some SQL exploration that i have done to dive a little deeper into Covid data from the entirety of the pandemic, there is quite a lot of data here which was really interesting and showed trends in the worlds reponse to the virus.
 
 I have used Google BigQuery to perform the exploration, which I found to be the easiest option, for hosting and querying the data.
+
+I have created a dashboard in Tableau with one of the files in question [here](https://public.tableau.com/app/profile/myles.phelan/viz/CovidDashboard_16465552352490/Dashboard1?publish=yes).
